@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component,enableProdMode } from '@angular/core';
 import { AlertController } from '@ionic/angular';
 import { ToastController } from '@ionic/angular';
 
